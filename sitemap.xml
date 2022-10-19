@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://zar-sy.com/bangumis/index.html</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/2022/10/08/%E6%80%9D%E7%BB%B4%E6%98%AF%E5%9C%A8%E7%BB%95%E5%9C%88/</loc>
+    
+    <lastmod>2022-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/2022/08/25/hello-world/</loc>
+    
+    <lastmod>2022-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/about/index.html</loc>
+    
+    <lastmod>2022-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://zar-sy.com/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://zar-sy.com/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://zar-sy.com/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
