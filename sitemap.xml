@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zar-sy.com/2022/12/27/%E3%80%8A%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B%E3%80%8B%EF%BC%9A2+2=4%E7%9A%84%E8%87%AA%E7%94%B1/</loc>
+    
+    <lastmod>2022-12-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zar-sy.com/bangumis/index.html</loc>
     
     <lastmod>2022-10-11</lastmod>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://zar-sy.com/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,21 +57,35 @@
   
   <url>
     <loc>https://zar-sy.com/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zar-sy.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zar-sy.com/tags/%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/tags/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94/</loc>
+    <lastmod>2022-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/tags/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -71,14 +94,21 @@
   
   <url>
     <loc>https://zar-sy.com/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zar-sy.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zar-sy.com/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
